@@ -5,7 +5,7 @@ the project was written to practice function usage, nested loop usage, two dimen
 
 in order to quit the game and close the console, the player can input a negative number.
 
-### skills Practiced
+### skills practiced
 - functions and modular program structure
 - multi-dimensional arrays (2D array board representation)
 - nested loop logic
